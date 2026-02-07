@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Console Todo App
 
 A simple command-line todo application with in-memory storage, built with Python.
@@ -110,3 +111,6 @@ The application validates all inputs and provides appropriate error messages for
 - Data is stored only in memory and will be lost when the application exits
 - Single-user, offline application
 - No persistence to files or databases
+=======
+# to-do-phase-1
+>>>>>>> e6aa32e5ebc6a415a0edd2253eda3ea33d0e88c2
